@@ -11,42 +11,42 @@ class home extends StatelessWidget{
   {
     "image": "assets/images/Coffee1.jpg",
     "name": "Espresso",
-    "price": '\$3.50',
+    "price": 'Rs 3.50',
     "type": "Hot Coffee",
     "description": "Strong and bold espresso shot."
   },
   {
     "image": "assets/images/Coffee2.jpg",
     "name": "Cappuccino",
-    "price": '\$4.20',
+    "price": 'Rs 4.20',
     "type": "Hot Coffee",
     "description": "Espresso with steamed milk and foam."
   },
   {
     "image": "assets/images/Coffee3.jpg",
     "name": "Iced Latte",
-    "price": '\$4.50',
+    "price": 'Rs 4.50',
     "type": "Cold Coffee",
     "description": "Cold milk with espresso and ice."
   },
   {
     "image": "assets/images/Coffee4.jpg",
     "name": "Cold Brew",
-    "price": '\$3.80',
+    "price": 'Rs 3.80',
     "type": "Cold Coffee",
     "description": "Smooth coffee brewed with cold water."
   },
   {
     "image": "assets/images/Coffee5.jpg",
     "name": "New Coffee",
-    "price": '\$2.90',
+    "price": 'Rs 2.90',
     "type": "Snacks",
     "description": "Smooth coffee brewed with cold water."
   },
   {
     "image": "assets/images/Coffee6.jpg",
     "name": "Choco Coffe",
-    "price": '\$5.20',
+    "price": 'Rs 5.20',
     "type": "Desserts",
     "description": "Soft chocolate desser coffee."
   }

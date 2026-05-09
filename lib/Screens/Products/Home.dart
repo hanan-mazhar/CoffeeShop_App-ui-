@@ -119,7 +119,7 @@ Widget Headerbar(){
         indicator: UnderlineTabIndicator(
         borderSide: BorderSide(width: 3.0,color: Colors.orange),
         
-        insets: EdgeInsets.symmetric(horizontal: 10.0), // yahan aap width control kar sakte hain
+        insets: EdgeInsets.symmetric(horizontal: 10.0), // control the indicator width here
       ),
       
         tabAlignment: TabAlignment.start,
